@@ -1,6 +1,3 @@
-import odoo
-
-
 from odoo import api, fields, models
 
 
